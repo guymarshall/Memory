@@ -52,8 +52,5 @@ int main()
     
     printf("\n");
 
-    printf("Press enter to continue...\n");
-    getchar();
-
     return 0;
 }
